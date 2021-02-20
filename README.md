@@ -17,6 +17,15 @@
 - İzleme listesi oluşturma
 - İzlendi listesi oluşturma
 - Favori listesi oluşturma
+
+#### Kullanılan teknolojiler
+- Asp.Net Core Mvc
+- Asp.Net Identity
+- MsSql
+- Bootstrap
+- Web Service
+- Grunt
+- HttpClient 
 ----------------------------------
 ### English 
 > It is a joint term project of three courses in the school (**Database management systems, Service-oriented architectures and Advanced web programming**.) 4 people took part in the project. My role was to do the backend side. I took part in this and the [Web service](https://github.com/AliYildizoz909/VesizleWebService) side.
@@ -37,3 +46,12 @@ The project is based on a service called [**themoviedb**](https://developers.the
 - Watch list creation
 - Watched list creation
 - Favorite list creation
+
+#### Used technologies
+- Asp.Net Core Mvc
+- Asp.Net Identity
+- MsSql
+- Bootstrap
+- Web Service
+- Grunt
+- HttpClient 
