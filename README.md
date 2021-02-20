@@ -32,7 +32,7 @@
 [vesile-app](https://github.com/vesile-app)
 
 ## Purpose of project
-The project is based on a service called [**themoviedb**](https://developers.themoviedb.org/3/getting-started/introduction)that provides a web api infrastructure for movies. In the project, our user can look at the details of the movie, it's trailer, actors, etc. Our users can also add any movie they want to their watch, watched or favorite lists.
+The project is based on a service called [**themoviedb**](https://developers.themoviedb.org/3/getting-started/introduction) that provides a web api infrastructure for movies. In the project, our user can look at the details of the movie, it's trailer, actors, etc. Our users can also add any movie they want to their watch, watched or favorite lists.
  
  #### Features
  - Create account
