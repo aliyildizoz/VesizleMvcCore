@@ -8,13 +8,13 @@ The project is based on a service called [**themoviedb**](https://developers.the
  
  #### Features
  - Create account
- - Film
+ - Movie
 	- Cast 
 	- Crew
 	- Recommended movies
 	- Trailer
 	- Summary
-	- Point
+	- Score
 - Watch list creation
 - Watched list creation
 - Favorite list creation
