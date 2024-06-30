@@ -15,15 +15,17 @@ The project is based on a service called [**themoviedb**](https://developers.the
 	- Trailer
 	- Summary
 	- Score
-- Watch list creation
-- Watched list creation
-- Favorite list creation
+- Watch List
+- Watched List
+- Favorite List
 
 #### Used technologies
 - Asp.Net Core Mvc
 - Asp.Net Identity
+- Entity Framework Core
 - MsSql
 - Bootstrap
 - Web Service
 - Grunt
-- HttpClient 
+- HttpClient
+- SOAP
